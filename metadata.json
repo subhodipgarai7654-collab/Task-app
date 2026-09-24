@@ -1,0 +1,6 @@
+{
+  "name": "TaskEarn Pro",
+  "description": "Modern, transparent rewards and task management app with real task verification, daily earnings, wallet withdrawals, and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
